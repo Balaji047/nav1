@@ -1,0 +1,13 @@
+body {
+  background: orange;
+}
+
+.menu {
+  display: flex;
+  flex-direction: column;
+  color: green;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  list-style-type: none;
+}
